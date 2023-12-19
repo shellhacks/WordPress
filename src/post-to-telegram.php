@@ -7,7 +7,7 @@
  *
  * Send new WordPress posts to Telegram
  * Documentation: https://www.shellhacks.com/wordpress-auto-post-to-telegram-channel-no-plugin
- * Source: https://github.com/shellhacks/WordPress/src/post-to-telegram.php
+ * Source: https://github.com/shellhacks/WordPress/blob/main/src/post-to-telegram.php
  *
  * Tested on WordPress, version=6.4.2
  * Version: 1.0.0
