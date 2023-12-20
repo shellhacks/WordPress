@@ -1,4 +1,4 @@
- <?php
+<?php
 
 /**
  * by ShellHacks
@@ -6,7 +6,7 @@
  * Copyright (c) 2011-2024 www.ShellHacks.com <mail@shellhacks.com>
  *
  * Send new WordPress comments to Telegram 
- * Documentation: https://www.shellhacks.com/wordpress-comment-hook-trigger-action-example/
+ * Documentation: https://www.shellhacks.com/wordpress-comment-hook-trigger-action-example
  * Source: https://github.com/shellhacks/WordPress/blob/main/src/send-comment-to-telegram.php
  *
  * Tested on WordPress, version=6.4.2
