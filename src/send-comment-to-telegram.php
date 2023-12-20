@@ -1,6 +1,6 @@
  <?php
 
- /**
+/**
  * by ShellHacks
  * WordPress script: send-comment-to-telegram
  * Copyright (c) 2011-2024 www.ShellHacks.com <mail@shellhacks.com>
